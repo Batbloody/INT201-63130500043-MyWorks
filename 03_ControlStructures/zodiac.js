@@ -21,7 +21,7 @@ year = input%12
     z = "Tiger";
     } else if (year === 7) {
     z = "Rabbit";
-    } else if (year === 8 {
+    } else if (year === 8) {
     z = "Dragon";
     } else if (year === 9) {
     z = "Snake";
